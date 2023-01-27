@@ -44,6 +44,7 @@
   justify-content: space-between;
   padding: 10px;
   border-radius: 4px;
+  justify-content: space-around;
 }
 body {
   color: var(--dark);
@@ -300,6 +301,7 @@ body {
   display: flex;
   justify-content: center;
   gap: 24px;
+  
 }
 .button-item {
 }
