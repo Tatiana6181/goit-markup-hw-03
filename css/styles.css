@@ -250,6 +250,7 @@ img {
   text-transform: var(--h-transf);
   text-align: var(--h-algn);
   padding-top: 120px;
+  padding-bottom: 72px;
 }
 .team-list {
   display: flex;
@@ -270,13 +271,18 @@ img {
   font-size: var(--h-trd-sz);
   line-height: var(--h-trd-hght);
   text-align: center;
+  padding-top: 32px;
+  margin-bottom: 8px;
+
 }
 .team-text {
   color: var(--text);
   line-height: var(--ln-hght-m);
-
   text-align: center;
+  padding-bottom: 32px;
+  
 }
+
 
 /* Footer */
 
@@ -293,6 +299,7 @@ img {
   letter-spacing: var(--let-sps-thr);
   text-transform: uppercase;
   color: var(--light);
+  
 }
 .footer-logo-color {
   color: var(--primary-brand);
