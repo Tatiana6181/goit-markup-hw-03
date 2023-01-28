@@ -273,16 +273,13 @@ img {
   text-align: center;
   padding-top: 32px;
   margin-bottom: 8px;
-
 }
 .team-text {
   color: var(--text);
   line-height: var(--ln-hght-m);
   text-align: center;
   padding-bottom: 32px;
-  
 }
-
 
 /* Footer */
 
@@ -299,7 +296,6 @@ img {
   letter-spacing: var(--let-sps-thr);
   text-transform: uppercase;
   color: var(--light);
-  
 }
 .footer-logo-color {
   color: var(--primary-brand);
@@ -357,7 +353,6 @@ img {
   padding-left: 0;
 }
 .portfolio-item {
-  
 }
 .portfolio-img {
 }
