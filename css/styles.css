@@ -120,6 +120,7 @@ border-bottom: 1px solid var(--accent);
   line-height: var(--ln-hght-m);
   font-style: normal;
   color: var(--text);
+  margin-right: auto;
 }
 .adress-mail:hover,
 .adress-mail:focus,
