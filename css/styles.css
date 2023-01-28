@@ -357,7 +357,7 @@ img {
   padding-left: 0;
 }
 .portfolio-item {
-  padding-bottom: 120px;
+  
 }
 .portfolio-img {
 }
@@ -366,10 +366,15 @@ img {
   font-size: var(--h-trd-sz);
   line-height: var(--h-trd-hght);
   padding-left: 16px;
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 }
 .portfolio-text {
   color: var(--text);
   line-height: var(--ln-hght-m);
   padding-left: 16px;
+}
+.ptf-btm-pdg {
+  display: flex;
+  gap: 24px;
+  padding-bottom: 120px;
 }
