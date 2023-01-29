@@ -340,6 +340,7 @@ border-bottom: 1px solid var(--accent);
 .portfolio {
   padding-top: 96px;
   padding-bottom: 120px;
+  
 }
 .txt-border {
   border: 1px solid var(--accent);
@@ -347,19 +348,20 @@ border-bottom: 1px solid var(--accent);
   padding-top: 32px;
   padding-bottom: 32px;
   padding-left: 16px;
+  width: 360px;
 }
-
 .portfolio-list {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   row-gap: 48px;
   column-gap: 24px;
-  flex-basis: calc((100%-2*24px)/3);
 }
 .portfolio-item {
-  
+  flex-basis: calc((100% - 2*24px)/3);
 }
 .portfolio-img {
+  
 }
 .portfolio-title {
   font-weight: var(--h-trd-wght);
