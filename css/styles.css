@@ -124,8 +124,6 @@ border-bottom: 1px solid var(--accent);
   line-height: var(--ln-hght-m);
   font-style: normal;
   color: var(--text); 
-  padding-top: 24px;
-  padding-bottom: 23px;
 } 
 
 .adress-tel {
